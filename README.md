@@ -1,5 +1,5 @@
 # Telegram Statistics
-TelegramBot
+this program will create a word cloud png image to show which words has The most frequent words in a telegram group chat as json file.
 
 ## How to Run
 first, in main repo directory , run the following code to add `src` to your `PYTHONPATH`:
