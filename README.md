@@ -12,4 +12,4 @@ python src/chat_statistics/stats.py
 ```
 to generate a word cloud of json data in `DATA_DIR`
 
-![alt text](https://github.com/matinrasooli/TelegramBot/blob/main/src/data/wordcloud.png?raw=true)
+![Farsi Word Cloud from Telegram Chat](https://github.com/matinrasooli/TelegramBot/blob/main/src/data/wordcloud.png?raw=true)
